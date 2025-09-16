@@ -78,7 +78,7 @@ if __name__ == "__main__":
     for eps in eps_list:
         try:
             root, k = bisection(f, a, b, eps)
-            print(f"eps={eps}, iterations={k}, root≈{root}")
+            print(f"eps={eps}, iterations={k}, root={root}")
         except ValueError as e:
             print(f"eps={eps}, error: {e}")
 
