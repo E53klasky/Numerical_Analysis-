@@ -1,0 +1,23 @@
+Jacobi Iterations:
+Iteration 1: x = [-1.0, 1.0, 1.0]
+Iteration 2: x = [-1.0, -1.0, 0.333333]
+Iteration 3: x = [-0.333333, -1.0, -1.0]
+Iteration 4: x = [1.0, -0.333333, -0.777778]
+Iteration 5: x = [0.777778, 1.0, 0.111111]
+Iteration 6: x = [-0.111111, 0.777778, 0.925926]
+Iteration 7: x = [-0.925926, -0.111111, 0.481481]
+Iteration 8: x = [-0.481481, -0.925926, -0.382716]
+Iteration 9: x = [0.382716, -0.481481, -0.777778]
+Iteration 10: x = [0.777778, 0.382716, -0.193416]
+
+Gauss–Seidel Iterations:
+Iteration 1: x = [-1.0, -1.0, -1.0]
+Iteration 2: x = [1.0, 1.0, 1.0]
+Iteration 3: x = [-1.0, -1.0, -1.0]
+Iteration 4: x = [1.0, 1.0, 1.0]
+Iteration 5: x = [-1.0, -1.0, -1.0]
+Iteration 6: x = [1.0, 1.0, 1.0]
+Iteration 7: x = [-1.0, -1.0, -1.0]
+Iteration 8: x = [1.0, 1.0, 1.0]
+Iteration 9: x = [-1.0, -1.0, -1.0]
+Iteration 10: x = [1.0, 1.0, 1.0]
